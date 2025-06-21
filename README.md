@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# File
-=======
-
 
 # XKCD Email Subscription System
 
