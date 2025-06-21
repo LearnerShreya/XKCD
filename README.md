@@ -136,6 +136,3 @@ This sets up a CRON job to run `cron.php` every 24 hours.
 | External API    | XKCD JSON API (`info.0.json`)        |
 
 ---
-
-
->>>>>>> master
